@@ -1,0 +1,8 @@
+server/node_modules
+server/.env
+
+logs/
+
+music-player/*.log
+music-player/*.spec
+music-player/music_player
